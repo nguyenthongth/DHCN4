@@ -1,0 +1,10 @@
+{
+    "name": "tour",
+    "title": "Tour",
+    "description": "This is description for module tour",
+    "namespace": "Modules\\Tour\\",
+    "provider": "Modules\\Tour\\Providers\\TourServiceProvider",
+    "author": "MITECH",
+    "url": "https://mitechcenter.vn",
+    "version": "1.0.0"
+}
